@@ -1,5 +1,5 @@
 # JavaBookLookUp
-Contains all the material for the Java book look up system created in the Object oriented Programming unit at MMU. 
+Contains all the material for the Java book look up system created in the Object oriented Programming unit at MMU. Files also contain the jar files reqired to look up the database via the db file. 
 
 Softwear used:
 
